@@ -1,6 +1,7 @@
+#import libraries
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+st.title("DEPRESSION PREDICTION WEB APPLICATION")
+st.write("This Web application is used to predict whether one has depression or not based on the data provided. A user is supposed to fill in a form provided where the application will predict if that particular user has depression or not."
 )
+st.subheader('Data information')
